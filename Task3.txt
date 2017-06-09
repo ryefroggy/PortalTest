@@ -1,0 +1,7 @@
+I chose to save the events as a data structure of an event objects.
+It makes it easier to keep track of the names and the times of each event by 
+keeping the information for each one in one place (instead of multiple arrays).
+Then I went through and changed it into a minute format based off of military time
+in order to make it easier to compare the times. Then I check if they are already
+in the array of conflicts before adding them to it. I didn't get around to
+potential edge cases yet.

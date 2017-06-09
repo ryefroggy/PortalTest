@@ -1,0 +1,14 @@
+.blue {
+    color: blue;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.button {
+    width: 100px;
+    height:30px;
+    background-color:red;
+    padding: 50px;
+}
